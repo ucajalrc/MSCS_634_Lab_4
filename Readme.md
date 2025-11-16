@@ -1,4 +1,4 @@
-# MSCS_634_Lab_4: Regression & Regularization Using the Diabetes Dataset**
+# MSCS_634_Lab_4: Regression & Regularization Using the Diabetes Dataset
 
 ## **Student**
 
@@ -16,7 +16,7 @@ Lab 4 — Regression and Regularization Techniques Using the Diabetes Dataset
 
 # **1. Purpose of the Lab**
 
-The purpose of this lab was to develop and compare multiple regression models using the Diabetes dataset from scikit-learn. The lab explored how different regression approaches—Simple Linear Regression, Multiple Linear Regression, Ridge Regression, and Lasso Regression—perform when predicting a continuous outcome (disease progression).
+The purpose of this lab was to develop and compare multiple regression models using the Diabetes dataset from scikit-learn. The lab explored how different regression approaches which are Simple Linear Regression, Multiple Linear Regression, Ridge Regression, and Lasso Regression, perform when predicting a continuous outcome (disease progression).
 
 The assignment emphasized:
 
@@ -142,11 +142,6 @@ The cleaning step required adjusting the narrative to demonstrate:
 * Higher alpha values in Ridge and Lasso caused underfitting.
 * Very small alpha values reduced the effect of regularization.
 * Final chosen values (Ridge = 1.0, Lasso = 0.01) achieved the most stable and interpretable results.
-
-### **3. Screenshot limitations**
-
-Some outputs (tables, predictions, and printed results) were too long to fit into static screenshots.
-A note was included explaining that full output is visible by scrolling in the Jupyter Notebook environment.
 
 ---
 
